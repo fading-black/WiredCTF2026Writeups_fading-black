@@ -10,7 +10,7 @@ I couldn't install ZXing/Magic-bricks-type QR tools on my laptop, so I used an o
 
 1. Scanned the QR code using an online QR decoder to check whether it could be decoded normally.
 
-2 . The QR did not decode correctly, so I inspected the pattern/structure of the QR instead of only looking at the encoded data. AND FIXED THE READING SQUARES .
+2 . The QR did not decode correctly, so I inspected the pattern/structure of the QR instead of only looking at the encoded data. AND FIXED THE READING SQUARES(FINDER PATTERNS) .
 
 &#x20;   I noticed that the timing pattern of the QR should follow a regular alternating pattern:
 

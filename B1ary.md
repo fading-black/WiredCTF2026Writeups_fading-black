@@ -12,7 +12,8 @@ After converting the binary to ASCII, most of the output appeared to be random o
 
 I noticed the string **`wired{`** appearing in the decoded data. I then checked the consecutive lines around it and found that they contained the remaining parts of the flag.
 
-**DISCOVERED 2ND METHOD LATER**
+**DISCOVERED 2ND METHOD (DISCOVERED LATER)**
+
 can just use the "string" function in terminal and you will get all the diff text values in the particular file. 
 
 The decoded parts were:

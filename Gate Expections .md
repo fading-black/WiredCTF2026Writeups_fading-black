@@ -6,7 +6,7 @@
 
 1. First wrote a python code for the given gate sequence 
 2. now put the entries into the python code to get the key for the Encrypted text.
-3. Xor'd the key with the text.
+3. Xor'd the key with the encrypted text.
 4. then used the hex converter to convert the hex to string.
 5. noticed that Caesar cipher was used so used an online Caesar cipher converter to get the FLAG.
 

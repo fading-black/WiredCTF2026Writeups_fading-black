@@ -14,4 +14,4 @@ After processing the audio, I used an **online DTMF decoder** to decode the diff
 
 The decoder gave me a sequence of encoded numbers. I then noticed that the numbers followed another encoding, so I converted them using an **online ASCII/decimal converter**.
 
-After converting the values, the hidden message/FLAG was revealed.
+After converting the values, the FLAG was revealed.

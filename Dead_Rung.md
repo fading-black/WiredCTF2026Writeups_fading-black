@@ -16,6 +16,8 @@ PLC Ladder Logic Viewer, Modbus Diagnostic Snapshot , Pen and Paper
 
 3.Understood how the ESTOP and DOOR\_CLOSED inputs affect the internal ESTOP\_OK and DOOR\_OK signals.
 
+4. Also understood how the different gate meant -- SEL,SRO,NOT,AND
+
 
 
 4.Traced the 3-second TON timer and identified the DRIVE\_READY condition required for SAFETY\_OK.

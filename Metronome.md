@@ -14,7 +14,7 @@ I couldn't install ZXing/Magic-bricks-type QR tools on my laptop, so I used an o
 
 &#x20;   I noticed that the timing pattern of the QR should follow a regular alternating pattern:
 
-&#x20;   101010101010...
+&#x20;   101010101010...(TRIMMING LINES)
 
 
 

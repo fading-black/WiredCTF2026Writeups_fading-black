@@ -20,11 +20,11 @@ PLC Ladder Logic Viewer, Modbus Diagnostic Snapshot , Pen and Paper
 
 
 
-4.Traced the 3-second TON timer and identified the DRIVE\_READY condition required for SAFETY\_OK.
+5.Traced the 3-second TON timer and identified the DRIVE\_READY condition required for SAFETY\_OK.
 
 
 
-5.Finally, determined the minimum input changes required and submitted the flag in alphabetical order.
+6.Finally, determined the minimum input changes required and submitted the flag in alphabetical order.
 
 
 
